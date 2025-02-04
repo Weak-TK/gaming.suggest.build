@@ -59,16 +59,8 @@ table{
 width:80%;
 margin: auto;
 }
-th{
-text-align:center;
-max-width: 100%;
-padding: 0px;
-width: 33%;
-}
 td{
-    padding:0px;
-    text-align:center;
-    font-size:6.0vw;
+    font-size:6vw;
 }
 .rightside{
     text-align: right;
