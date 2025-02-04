@@ -67,6 +67,7 @@ width: 33%;
 }
 td{
     padding:0px;
+    max-width:100%
 }
 .rightside{
     text-align: right;
